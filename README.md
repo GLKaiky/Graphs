@@ -5,7 +5,7 @@ Este repositório contém o código para o trabalho de grafos, desenvolvido como
 ## Integrantes
 - Kaiky França da Silva [Linkedin](https://www.linkedin.com/in/glkaiky/) | [Portifólio](kaikyfrs.com.br)
 - Samuel Horta de Faria [Linkedin](www.linkedin.com/in/samuelhortafaria)
-- 
+- Gabriel Cunha Schlegel [Linkedin](https://www.linkedin.com/in/gcunhaschlegel/)
 
 ## Professor
 O professor responsável por esta disciplina é Silvio Jamil Ferzoli.
@@ -19,9 +19,6 @@ A estrutura de pastas do projeto é a seguinte:
 
 - `main.cpp`: Arquivo principal contendo a execução do programa.
 - `assets/`: Diretório contendo todos os arquivos auxiliares.
-  - `assets/Lista/`: Contém a implementação das listas.
-  - `assets/No/`: Contém a implementação dos nós.
-  - `assets/Grafo/`: Contém a implementação do grafo.
 
 
 ## Descrição do Projeto
@@ -29,4 +26,4 @@ A estrutura de pastas do projeto é a seguinte:
 Este projeto é uma implementação de grafos, abordando as estruturas e algoritmos relacionados. O código em `main.cpp` orquestra o funcionamento das estruturas de dados, enquanto as pastas dentro de `assets/` organizam os componentes do grafo.
 
 # O GRUPO
-<img src='./assets/img/IMG_20250226_095840132_HDR.jpg' style='width: 10000px; height: 300px;image-rendering: pixelated;'>
+<img src='./assets/img/grupo_ponto.jpg' style='width: 10000px; height: 300px;image-rendering: pixelated;'>
